@@ -1,3 +1,4 @@
+package programmingskillsjava;
 public class Solution283 {
     public void moveZeroes(int[] nums) {
         int zeroesCount = 0;

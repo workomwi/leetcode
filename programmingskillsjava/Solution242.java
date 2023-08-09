@@ -1,3 +1,4 @@
+package programmingskillsjava;
 import java.util.HashMap;
 
 public class Solution242 {
