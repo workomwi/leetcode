@@ -1,3 +1,4 @@
+package programmingskillsjava;
 public class Solution1822 {
     public int arraySign(int[] nums) {
         int result = 1;
